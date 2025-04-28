@@ -11,7 +11,7 @@ import Select from "react-select";
 import DatePicker from "react-datepicker";
 
 import "react-datepicker/dist/react-datepicker.css";
-import "./reservation.css";
+import "./Reservation.css";
 
 import React, { useState } from "react";
 // import { valueContainer } from "react-select/animated";
